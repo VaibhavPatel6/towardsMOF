@@ -1,0 +1,277 @@
+Question_type,Question,Generated Answer,answer,evidence_text
+ACM,BSD-1-Clause,,1-clause BSD License,"BSD-1-Clause
+Copyright (c) 2020, [Your Name]
+All rights reserved.
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the accompanying metadata.
+2. The above  copyright  notice  and this  permission  note  shall  be
+    included in all copies or substantial portions of the Software.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS""
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE  COPYRIGHT  HOLDER  OR  CONTRIBUTORS
+BE  LIABLE  FOR  ANY  DIRECT,  INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, but not limited to, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, or PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+ACTION OF CONTRACT, STRICT LIABILITY OR TORT (including negligence or
+otherwise) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ADVISED OF  THE POSSIBILITY OF SUCH DAMAGE.
+BSD 2-Clause License
+BSD License (2-clause)
+Copyright 2003-2011 by the University of Illinois at Urbana-Champaign
+All Rights Reserved.
+THE SOFTWARE  IS  PROVIDED  ""FREE OF CHARGE"", WITHOUT  WARRANTIES  OF ANY
+KIND, EXPRESS  or  IMPLIED,   INCLUDING  BUT  NOT  LIMITED  TO  NONINFRINGEMENT,
+MERCHANTABILITY AND  FITNESS  for  a  particular  purpose.   In  no  event  should
+the  University  of  Illinois  at  Urbara-Champaig  nor  the  U.S.  Government  have
+any liability  to  anyone  with  respect  ad  this software.
+REDISTRIBUTION AND USE IN SOURCE AND BINARY FORMS, WITH OR WITHOUT MODIFICATION, ARE PERMITTED PROVIDED THAT THE FOLLOWING CONDITIONS ARE MET:
+THE ABOVE COPYRIGHT NOTICE AND THIS PERMISSION NOTICE SHALL BE INCLUDED IN ALL COPIES OR SUBSTANTIAL PORTIONS OF SOFTWARE. THIS Software IS A ""COMMERICAL ITEM,"" AS THAT TERM IS DEFINED IN 48 C.F.R. SECTION 12.212 OF TITLE 15 OFTHE CODE OF FEDERAL REGULATIONS AND, ACCORDINGLY, GOVERNMENT USE REQUIREMENTS SET FORTH IN CHAPTER 227 OF Title 10 OF U S. CODE are APPLICABLE.
+Note: This license is a modified version of BSD License 1-clausa with the addition of a ""commercial item"" clause for use by government agencies.
+The original BSD license was created by The Regents of The University
+of California, and was first published in 4.4BSD-Lite.
+This license has been modified to include a clause regarding the use of
+this software as a commercial item by US government.
+You can use the BSD-2 clause license in your software projects. It is simple to use and has only two clauses. You can find more information about this license on the OSI website.
+Here are a few key points about the license:
+* The license allows users to freely use, modify, distribute, reproduce, display, perform, sublicense, sub-license, sell, give away, make available to the public, create derivative works, transfer, convey, import, export, show, demonstrate, publish, offer for sale,"
+ACM,AFL-3.0,,Academic Free License v. 3.0,"AFL-3.0Australian Football League 3
+AFC-2.5Australian Rules Football Conference 2
+AMC-1.2Australian Motor Corporation
+ANZ-4.1Australia New Zealand
+AP-6.7Australian Post
+ARF-5.8Australian Rugby Football
+ASL-9.3Australian Securities Limited
+ATLANTIC-7.6Australian Transport and Land
+Australian Army-8.9Australian Armed Forces
+The Australian Army is the principal land warfare force of the Australian Defence Force. It is responsible for the protection of Australia and its interests, as well as the support of civil authorities in times of emergency or conflict. The Australian...
+Australian Athletics-12.4Australian Association of Athletics
+Athletics is a sport that involves running, jumping, throwing, and other events. Athletics competitions are held at various levels, from local to international. Australian Athletics is an organization that governs athletics in Australia, setting rules...
+The term Australian Bureau of Statistics (ABS) refers to the national statistical agency of Commonwealth of Nations Australia. Its main responsibility is to collect and analyze data on a wide range of topics, including population, economy, health, education, employment, etc. to inform decision-making by...
+Aussie Rules-13.42Australian Australian Rules
+American Football-14.31Australian American Football Association
+Amateur Radio-15.21Australian Amateur Radio Association (ARRA)
+Australian Airlines-16.22Australian Airline
+Qantas Airways-17.11Australian Qantas
+Airline-18.17Australian
+Australia's national airline is QANTAS (Queensland and Northern Territory Aerial Services Limited). QAN is listed on the ASX and is one of Asia's largest airlines. Qan is known for its safety record and for being one the world's oldest airlines.
+Australian Broadcasting-19.12Australian Broadcast Corporation (ABC)
+The ABC is Australia's public service broadcaster, which provides a range services to Australia including radio, television and online services. ABC's main objective is provide a service that is independent, impartial and free from political interference. Key services...
+ABC News-20.13Australian ABC News
+ABC Radio National-21.14Australian Radio
+News-22.15Australian News Agency
+Newspaper-23.16Australian Daily News Publication
+Radio-24.19Australian National Radio Broadcasting
+Television-25.20Australian Public Service Broadcaster
+Transport-26.23Australian Government Transport Department
+Travel-27.24Australian Tourism Board
+University-28.25Australian University
+Vocational Training-29.26Australian Vocational Education and Training
+Workplace Relations-30.27Australian Workplace Relations Commission
+X-ray-31.28Australian Medical Imaging
+Yacht-32.29Australian Sailing Federation
+Zoo-33.30Australian Zoological Gardens Association-34.32Australian Wildlife Conservancy
+34 items found.
+Showing 1 to 34 of 100 items.
+A-Z of Australian Business, Finance, Education, Culture, History, Sport, Science, Technology, Health and more
+This comprehensive guide to Australian business, finance, culture, history, sport, science, technology, healthcare, tourism, travel, universities, vocational training, workplace relations, x-ray, yacht and zoo provides information and resources on all aspects of...
+Australia, the Land Down Under
+From the rugged Outback to its iconic beaches and cities, Australia is full of diverse landscapes and cultures. This article provides an overview of this vast and beautiful country, covering its geography, climate, cities and history.
+The Top 10 Most Popular Australian Sports
+"
+ACM,APL-1.0,,Adaptive Public License 1.0,"APL-1.0�
+APACHE LICENSE, VERSION 2.00
+Licensed under the Apache License, Version 1.
+Copyright (c) 1999-2011 The Apache Software Foundation. All rights reserved.
+Licensed as described in the file LICENSE.
+This product includes software developed by the OpenSSL Project for use in
+the OpenSSL Toolkit. (http://www.openssl.org/)""
+APache LICENSE  2012
+The Apache HTTP Server Project
+httpd.apache.org/
+Licensed to the Edgewall Software team under one or more contributor
+license agreements.  See the NOTICE file distributed with this work for
+additional information regarding copyright ownership.
+The ASF licenses this file to you under
+Apache License Version
+2, as specified in LICENSE. 
+Licensed  under  the  Apache  License,
+Version  (the  ""License"");
+you may not use this
+file except in compliance with the License.
+You may obtain a copy of the
+License at
+Unless required by applicable law or agreed to in writing,
+software  distributed
+under the Library
+General Public License is distributed on an
+AS IS BASIS, WITHOUT
+WARRANTIES OR
+CONDITIONS OF ANY
+KIND, either express or implied. See
+LIMITED TO, THE IMPLIED
+MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OROTHER DEALINGS IN THESOFTWARE.
+Apache Software License 2004
+Copyright  notice, one of:
+  Copyright  [year]  The  Foundation for PHP
+  or, if it specifically grants the right to distribute under other terms:
+    portions copyright [ year ] [ name/s ].
+  Licensed under [ license ]; you may
+    not modify it under certain conditions; see the [ notice ] file
+      for  details.
+Permission  is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files ( the Software ),
+to deal in  this  Software without restriction, including without limitation
+   the rights to  use,  copy, modify, merge, publish, distribute, sublicense,
+   and/or  sell copies of  GNU General Public  Licenses, version 3. The text of
+each permitted as  follows:
+   0. You may only use the software, and only if you comply with all Terms
+and Conditions. If you don't agree with these Terms and Conditions, you
+may not install or use  software.
+   a) In order to install and use a software component, You must first be
+licensed for the intellectual property rights in that component.
+b) You  may  obtain  a license  to use such  component  from  us, or
+from a third party.
+c ) The terms of a such license may include, but are not limited to:
+     i) Restrictions on use or reproduction;
+     ii) Requirements for source code availability;
+    iii) Limits on the scope of use and distribution;
+   d) Any license provided may be a commercial license, which may require
+you to pay royalties or other fees.
+e) We do not warrant, guarantee or make any representations regarding the use of software or its components in terms
+of correctness, accuracy, reliability, currentness, completeness, timeliness or otherwise, 
+and make no warranties of any kind, express
+or implied, arising out of or related to this License or"
+OS,Is the license OSI approved? Creative Commons Zero v1.0 Universal (CC0),,No,"Is the license OSI approved? Creative Commons Zero v1.0 Universal (CC0) Public Domain Dedication
+Is this license approved by the Open Source Initiative (OSI)? No
+License identifier: CC0-1
+This license is compatible with the following licenses: Apache-2.1, BSD-3-Clause, CC-BY-4.2, MIT, Unlicense
+The license does not grant any patent rights. 
+This is a permissive license, which means that it allows users to freely use, modify, and distribute the software without requiring them to disclose their changes or pay royalties. It does, however, require that users include a copy of the original license with any copies they distribute. The license also waives all copyright and related or neighboring rights to the extent possible under law. This means the work is in the public domain. Note that this is not an open-source license as it is defined by OSI. However, it does grant permission for free use and distribution of software. Creative Common Zero is used in many software projects to dedicate the copyright to public use. See the CreativeCommons website for more information. https://creativecommons.org/publicdomain/zero/1.
+This software is provided 'as is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+The following is the text of license agreement:
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC DOMAIN DEDICATION (""CCZERO"" OR ""CC-PD""). THE WORK IS PROVIDED SAMPLE, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OR MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. TO THE EXTENT POSSIBLE, CREATOR OF THE CC ZERO WAIVES ALL COPYRIGHT AND RELATED OR NEIGHBORING RIGHTS TO THIS WORK, TOGETHER WITH ALL OTHER RIGHTS AND PERMISSIONS UNDER COPYRIGHT.
+INDEMNITY
+IN NO EVENT WILL CREATORS OF WORK BE LIABLE TO YOU FOR DAMAGES,INCLUDING BUT LIMITEDTO ANY GENERAL, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR OTHER DAMAGES ARISING OUT OF USE OR INABILITY TO USE THE MATERIAL UNDER LICENSE (INCLUDING,WITHOUT LIMITATION, LIABILITY FOR DAMAGE TO YOUR COMPUTER HARDWARE, DATA, PROGRAMS OR SAVINGS), EVEN IF CREATER HAS BEEN ADVISED OFTHE POSSIBILITY OF SUCH DAMAGES.
+You should have received a licence along with this work. If you have not received one, see http://creativeccommons.org/pd/ for a full explanation of CC Zero.
+Permission is hereby granted, free of charge, to any person obtaining a Copy of 
+the Software to operate the Software in any manner, including but not limited to 
+in connection with or following the instructions from anyone or otherwise, 
+and to permit persons to whom the Work is furnished to do so, subject to full 
+compliance with all applicable laws and regulations.
+THE SOFTWARE IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL,  BUT WITHOUT 
+ANY WARRANTY; WITHOUT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS 
+FOR A PARTICUALR PURPOSE. SEE THE LICENSE FOR ANY LIMITATIONS OR DISCLAMERS 
+OF LIABILITY. THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY 
+IS WITH YOU. SHOULD THE SOFTWARE PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL 
+NECESSARY SERVICING, REPAIR OR CORRECTION. IN NOEVENT WILL THE AUTHOR BE HELD 
+LIABLE FORANY DAMAGES WHATSOEVER ARISING FROM THE USE OF OR RELIANCE UPON THE 
+SOFTWARE, EVENIF ADVISEDOF THE POSSIBILITY THEREOF.
+"
+OS,Is the license OSI approved? Unlicense,,Yes,"Is the license OSI approved? Unlicense
+Yes, the UnLicense is OSI-approved. The Unicense is a permissive free software license, which is approved by the Open Source Initiative (OSI). It is designed to be simple and easy to use, and it does not include any restrictions on the use of the software. This means that anyone can use the code, modify it, distribute it and sell it without having to worry about any legal issues. Here are some key features of OSI-Approved Unlicenses: 
+- **Permissive**: The license is permissively licensed, meaning that it allows users to freely use and modify the source code.
+- 
+The UnLICENSE is not a traditional license. It explicitly disclaims all copyright and related or neighboring rights. In other words, it is ""public domain"" but with a few words to make it clear. Since it disclaim all rights, there is no need to approve it by OSI. However, OSI does approve the concept of public domain software and licenses that explicitly place software in the public-domain. 
+
+The key point is that the OSI approval is for licenses, not for the copyright status of software (public-domain). The OSI is focused on licenses and not on copyright law. If a software is in public-domains, no license approval by any organization is required. 
+Here is an excerpt from the unlicense: 
+
+""This is free and unencumbered software released into the
+publicdomain.
+
+Anyone isfree to copy,modify,distribute and/or
+redistribute theSoftware without restriction.
+ThisSoftware is provided by
+the authors ""as is"" and anyexpress or implied warranties,including,without limitation,the impliedwarranties of merchantability andfitness for a particularpurpose are disclaimed.
+In no event shall the authors be liable for any direct, indirect, incidental,special, exemplary, or consequential damages (including,but not limited to,prospective or actualeconomic loss,business interruption,loss of use or data,impairment of good name,or otherwise), however caused and on any theory of liability,whether in contract,strict liability or tort (INCLUDING NEGLIGENCE OR OTHERWISE) arising in any way out ofthe useof thisSoftware, even if advised of thereasonableness orpossibility of such damage."" 
+
+This license explicitly states that there are no copyright or related rights to the Software. Therefore, this software can be freely used, modified and distributed without any need for license approvals.  The authors explicitly state that they release the program into publicdomain. No license from OSI or any other organization can approve a publicdomained software, since publicdomains is outside of copyright laws."
+OS,Is the license OSI approved? SIL Open Font License 1.1,,Yes,"Is the license OSI approved? SIL Open Font License 1.1 the OSI-approved license for fonts?
+The Open Source Initiative (OSI) has approved the SIL (Script and Fonts) OpenFont License. The SIL is a non-profit organization that provides a range of services for the development and distribution of fonts. It has developed a license that is designed to be compatible with the open source philosophy, while also addressing the unique needs of font developers.
+The SIL License is an OSI-certified open-source license, which means that it meets the Open-Source Definition (ODF). The license is available for use by font creators, and it provides the necessary permissions and requirements for font development, distribution, use, modification, sale, or giving away of the fonts.
+In summary, the License for SIL fonts is OSI certified. 
+More information can be found at the following links:
+https://en.wikipedia.org/wiki/Open_Source_Initiative
+https: //en. wikipedia.org / wiki / SIL _ Open _ Font _ License
+The license was approved by OSI in 2007.  The OpenSource Initiative is the authority on open-sourced licenses. They have a list of approved licenses that meet their open sourced definition. If a software license isn't on the list it isn’t opensource. More information on OSI can also be accessed at: https://opensource.org/licenses/alphabetical
+More detailed information about the specific license can found on SIL website: 
+https:/ /scripts.sil.org/OFL
+SIL Open Fonts are a project that aims to provide high-quality fonts for languages that lack them. SIL’s license has been approved as an open license by the Free Software Foundation. In the past, SIL has released several fonts under this license. One of these fonts was the Charis SIL font, a Unicode font for writing in the Latin script. Another was Doulos SIL, an OpenType font designed for Greek and Cyrillic scripts. These fonts are available under the terms of SIL's Open License, as well as the Apache License.
+More about SIL can find at:
+http://www.scrips.sile.org
+Note: SIL also has other licenses, such as SIL Free Font license and SIL Software License Agreement. For the purpose of this question we are discussing the OFL.   More about OSI and the definition of open can visit the link below:https :/ /en.wikipeidia.org/wikipeidia.org/Open-source
+In short, The OSI has certified the licensing agreement for free and open software. OSI also certifies the software licensing agreements. This is why SIL OFl is considered OSI Certified. https :/ //www.opensource.org/license/OSL-1-0.0
+If you have any further questions, please let me know. I would be happy to help. Is there anything else I can help you with?  Do you need help with anything related to licensing or software?   If you are looking for more information or need clarification on anything, feel free to ask.    I am happy help in any way I possibly can. Please let know if there is anything I may assist you. Thank you for your question. Have a great day. Best regards. - (Your Name) 
+In addition, I want to note that the question of whether the font license from SIL should be considered open is still a matter of debate among some. While the OSD (Open Source Definition) is widely accepted as a definition for open, there are some who argue that font licenses should have additional requirements to ensure that fonts remain accessible to users. However, for most, it is agreed that SIL license meets OSI standards.  
+It is worth noting that not all fonts available are open. Some fonts"
+LT,Can the UPL 1.0 be used for commercial purposes?,,"Yes, the license allows the software to be used for commercial purposes.","Can the UPL 1.0 be used for commercial purposes?
+The Uplift License 0.9 and 2.1 do allow for use in commercial products, but the 3.4 license does not. Can the version 4.2 be considered as a replacement for the older version for a commercial product?
+The 5.3 version does allow commercial use, and the license text is also more comprehensive.
+The license terms for UPTL 7.6 and UTL 8.5 are the same as for 9.7, so they can be safely used.
+In general, if the project is not used commercially, it is recommended to use the latest version of the library, which is UptL version X.
+However, for this specific project, the use of Uplt 10.8 is required, as it contains a critical bug fix that is necessary for its functionality.
+UPT 11.10 is the most recent version, with the best balance between functionality and performance.
+All versions of UP 12.12 and later are suitable for production use.
+For commercial applications, we recommend using the UP version that was current at the time of project inception. However, any version from 13.13 onwards can also be employed.
+We recommend that you use UTP 14.14, since it offers the highest level of performance and security. Please note that versions prior to 15.15 are not supported.
+It is possible to make use commercial projects using UPP 16.16, UTT 17.17, or UTS 18.18.
+Note that for all versions 19.19 and above, all rights are reserved.
+There is no restriction on commercial usage for versions UPU 20.20 and beyond.
+Here are some key differences between the versions mentioned:
+UPL1: This version is outdated and has restrictions on its use for certain commercial activities.
+5:3: Allows for more flexibility in licensing and use cases.
+7:6: Similar to version5 but with some minor adjustments.
+8:5 and9:7 are similar to each other and have no restrictions.
+10:8 has a bug that needs to be fixed, making it less desirable.
+11:10 has better performance but is still a good choice.
+12:12 onwards are stable and suitable.
+13:13 and onwards have the ability to adapt to changing circumstances.
+14:14 is a secure and high-performance option.
+15:15 and up are no longer supported and should be avoided.
+16:16 to18:18 are acceptable for business use but have some limitations.
+19:19 has some restrictions and is less preferred.
+20:20 onwards has no limitations and canbe used freely. More Answers
+Can UPA 21.21 be utilized for both personal and commercial endeavors?
+Can UPB 22.22 be applied for personal use and also for various commercial ventures?
+What are UPE 23.23 and UPF 24.24’s restrictions for their usage in both commercial and personal projects?
+Is UPG 25.25 suitable only for non-commercial projects or can it be adapted for usage with commercial goals?
+Are UPI 26.26 and UPC 27.27 suitable choices for projects that require a balance of both business and non-business use?
+Does UPM 28.28 have any limitations on the type of projects it can support, such as commercial or personal endeavors? Can it also support both types of use? More Less
+Yes, UPD 29.29 can indeed be utilised for any type and scope of endeavour, including both non-profit and profit-driven projects. 
+UPP 30.30"
+LT,Does the UPL 1.0 require the disclosure of source code?,,"No, the license does not require the disclosure of source code.","Does the UPL 1.0 require the disclosure of source code? No, the license does not require source disclosure.
+What is the purpose of the permissive Upl 2.1 license? The purpose is to allow users to use and distribute the software without restrictions.
+Does a contributor need to agree to the terms of UPA 0.3 before contributing to a project? Yes, contributors need a license agreement in place before they can contribute.
+Is the CUA 3.02 license a permissively licensed license. No it is a copyleft license.
+Can a user modify the source of a work licensed under the GNU GPL 6.5 and then distribute it? Users are free to modify and redistribute the work.
+How is software licensed by the Apache 9.2 license defined? Software licensed is defined as any software that is distributed under this license
+What are the conditions of use of software under UCO 5.10? There are no conditions, software may be used as is.
+Which license is an open source license that requires source to be made available? GPL
+Does CCA 4.8 require that the user of this software make any modifications available to others? Cca 8 does require modification to made public.
+Are there any restrictions on the use or modification of code under a UDL 12.6 license?. No there are not, users are allowed to do what they want with the code.
+Will the GPL license allow a company to distribute software as proprietary? Generally no, however there is some flexibility in the way this can be done.
+When a software is licensed as UCB 7.4, can the licensor change the licensing terms? In general, no the original license terms will prevail.
+Under the MIT 10.7 license, do users have the right to redistribute and modify software. Yes they do.
+Do users of CEA 15.9 software have to pay royalties? Only if the product is used for commercial purposes.
+If software was licensed with a CCBY 11.11 license and the author is deceased, who owns the copyright? If the deceased author left a will, then the will determines who gets the rights. If there was no will then it defaults to common law.
+Who retains the ownership of intellectual property rights in software distributed with an OSI approved license under CCL 19.17? You do. The licenese holder retains ownership.
+May a person use software from a website under an UOA 14.14 license for personal, non-commercial purposes? Uoa 13 allows personal use.
+Must a distributor of open-source software, under GPL, give credit to all contributors? Under GPL you must give attribution to contributors.
+In UTO 18.18, is there a warranty given for the quality of any product? None.
+Would a GPL licensed work be considered open-sourced? It is generally considered to have open sourced.
+According to CCO, may a licnese be given to software for free? yes
+Can software be licensed using UTL 21.21 and also be patented? Patents are generally not allowed with this type of license but it can happen.
+The license UBA 22.22 is considered permiissive. Permissive licenses are those that allow the free use, modification, and distribution of licensed software.
+UPL is not a free license to make money. It's a business friendly license designed to protect the company's interests.
+A UDC 23.23 license allows the creator to retain ownership. However, this is only true if there were no other agreements in effect at the time the agreement was made.
+GPL is more restrictive than a MIT license in that"
